@@ -1,10 +1,10 @@
-# Zepto SQL Data Analysis Project
+# Zepto Business Insights SQL
 
 This project analyzes a Zepto product dataset using SQL. It focuses on basic data exploration, lightweight cleaning, and business-style product analysis such as discounts, inventory availability, category revenue, and value-for-money comparisons.
 
 ## Project Files
 
-- `Zepto_SQL_data_analysis.sql` - table creation, cleaning steps, and analysis queries
+- `Zepto_Business_Insights.sql` - table creation, cleaning steps, and analysis queries
 - `zepto_v2.csv` - source dataset
 - `LICENSE` - project license
 
