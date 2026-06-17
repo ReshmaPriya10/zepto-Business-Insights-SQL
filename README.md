@@ -1,4 +1,4 @@
-# Zepto_Business_Insights.Sql
+# Zepto Business Insights.SQL
 
 This project analyzes a Zepto product dataset using SQL. It focuses on basic data exploration, lightweight cleaning, and business-style product analysis such as discounts, inventory availability, category revenue, and value-for-money comparisons.
 
