@@ -150,4 +150,18 @@ You may need to adjust import syntax depending on the platform.
 
 ## License
 
-This project is available under the [MIT License](/d:/zepto-SQL-data-analysis-project/LICENSE).
+This project is available under the [MIT License](/LICENSE).
+## Author
+Reshma Priya Dayaka
+
+## Skills Used
+- SQL
+- PostgreSQL
+- Data Cleaning
+- Data Analysis
+
+## Key Insights
+- Top revenue-generating categories
+- Discount trend analysis
+- Inventory availability analysis
+- Product value-for-money comparison
